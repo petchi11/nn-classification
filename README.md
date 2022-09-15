@@ -1,6 +1,6 @@
 # Developing a Neural Network Classification Model
 
-## AIM  to start 
+## AIM : to start 
 
 To develop a neural network classification model for the given dataset.
 
