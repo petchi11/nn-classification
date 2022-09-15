@@ -1,6 +1,6 @@
 # Developing a Neural Network Classification Model
 
-## AIM : to start 
+## AIM 
 
 To develop a neural network classification model for the given dataset.
 
@@ -19,7 +19,7 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 
 ### STEP 1:
-
+      
 ### STEP 2:
 
 ### STEP 3:
